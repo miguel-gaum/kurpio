@@ -51,7 +51,7 @@ Kurpio is a desktop application built for gamers who want their music, friends, 
 | HTML & CSS | User interface |
 | Supabase | Database and backend services |
 | PostgreSQL | Relational database |
-| Supabase Edge Functions | Serverless API endpoints |
+| Netlify Functions | Serverless API endpoints |
 | LRCLIB | Synchronized lyrics |
 
 ## Project Status
