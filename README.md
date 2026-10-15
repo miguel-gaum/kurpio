@@ -1,48 +1,69 @@
 # Kurpio
 
-Music. Gaming. Social.
+**Music. Gaming. Social.**
 
-Kurpio is a desktop application designed for gamers, combining
-music playback, social features, game detection, and an in-game
-music overlay in one application.
+Kurpio is a desktop application built for gamers who want their music, friends, and gaming experience in one place. Combining music playback, social communication, game detection, and an in-game music overlay, Kurpio brings entertainment and connection together in a single application.
 
 ## Features
 
-🎵 Music Player
-- Local music library
-- Playlists
-- Synced lyrics
-- Album artwork
-- Custom video/audio controls
+### 🎵 Music
 
-🎮 Gaming
+- Music search and streaming
+- Music playback controls
+- Playlists and music history
+- Synced lyrics powered by LRCLIB
+- Album artwork and track metadata
+- Recently played and most-played music
+- Personalized music recommendations
+- Playback position persistence
+
+### 🎮 Gaming
+
 - Automatic game detection
-- Gaming music overlay
+- In-game music overlay
 - Audio ducking
 - Game library
+- Gaming-focused desktop experience
 
-💬 Social
-- Private messages
+### 💬 Social
+
+- Private messaging
 - Group conversations
-- Friend system
-- Profiles
-- Presence
+- Friends and profiles
+- Online presence and activity status
 - Voice chat
+- Direct communication with friends while gaming
+
+### 🖥️ Desktop Experience
+
+- Built with Electron
+- Integrated music and social experiences
+- Desktop-native application workflow
+- Background music playback and player controls
 
 ## Built With
 
-- Electron
-- Node.js
-- JavaScript
-- HTML/CSS
-- PostgreSQL / Neon
-- Cloud storage
-- LRCLIB
+| Technology | Purpose |
+|---|---|
+| Electron | Desktop application framework |
+| Node.js | Runtime and application services |
+| JavaScript | Application logic |
+| HTML & CSS | User interface |
+| Supabase | Database and backend services |
+| PostgreSQL | Relational database |
+| Netlify Functions | Serverless API endpoints |
+| LRCLIB | Synchronized lyrics |
 
-## Status
+## Project Status
 
-🚧 Kurpio is currently under development.
+Kurpio is an actively developed desktop application, with ongoing improvements to its music experience, social features, gaming integrations, performance, and reliability.
 
 ## Developed By
 
-YITZ Technologies
+**YITZ Technologies**
+
+*Your Innovative Tech Zone*
+
+---
+
+**Kurpio — Your music. Your games. Your people.**
